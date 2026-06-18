@@ -62,7 +62,10 @@ eixo1/
 A construção das bases segue princípios de:
 
 Padronização contábil e classificatória
+
 Harmonização entre diferentes níveis de governo
+
 Rastreabilidade dos dados e reprodutibilidade dos resultados
+
 Limitações inerentes às fontes — como inconsistências declaratórias, diferenças de classificação e lacunas de cobertura — são documentadas nas notas técnicas.
 
