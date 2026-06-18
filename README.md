@@ -55,6 +55,7 @@ eixo1/
 │   ├── documentacao/
 │   └── scripts/
 └── README.md
+```
 
 # ⚙️ Metodologia
 
